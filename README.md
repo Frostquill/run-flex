@@ -7,7 +7,7 @@ A website taht offers fitness training services.
 
 ## Built With
 * HTML
-* *CSS
+* CSS
 
 ## Website
 
