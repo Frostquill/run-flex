@@ -1,4 +1,4 @@
-# Run-flex
+# Run Buddy Inc.
 
 
 ## Purpose
